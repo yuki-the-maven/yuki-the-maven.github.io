@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header h1 {
+  color: #d70087;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(215, 0, 135, 0.1),
+               0 0 10px rgba(215, 0, 135, 0.1);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #d70087;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(215, 0, 135, 0.1),
+               0 0 10px rgba(215, 0, 135, 0.1);
+}
+
+ul li:before {
+  color: #d70087;
+}
+
+pre {
+  color: #d70087;
+}
+
+hr {
+  color: #d70087;
+}
