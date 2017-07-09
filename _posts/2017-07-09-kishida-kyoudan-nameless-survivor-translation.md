@@ -4,7 +4,7 @@ title: 岸田教団&THE明星ロケッツ - nameless survivor eng tl
 
 # nameless survivor eng tl
 
-I wanted to try and translate some songs for a long time but my skills in both grammar and vocabulary are just too miserable at the moment. nevertheless, I got so much hooked up with `nameless survivor` that my hands moved by themselves and I just found myself with `vi` open on a file with the lyrics. as you could imagine, the whole process heavily involved [jisho](jisho.org) and [google translate](https://translate.google.com/#ja/en/) but I was quite happy with the amount of vocabulary that I know without of looking up! well, still can't read the kanjis tho so the first pass was to write down kanas by ear, sometimes using the lyrics I got [from here](http://www.kasi-time.com/item-81153.html) to correct.
+I wanted to try and translate some songs for a long time but my skills in both grammar and vocabulary are just too miserable at the moment. nevertheless, I got so much hooked up with `nameless survivor` that my hands moved by themselves and I just found myself with `vi` open on a file with the lyrics. as you could imagine, the whole process heavily involved [jisho](jisho.org) and [google translate](https://translate.google.com/#ja/en/) but I was quite happy with the amount of vocabulary that I know without of looking up! well, still can't read the kanji tho so the first pass was to write down kana by ear, sometimes using the lyrics I got [from here](http://www.kasi-time.com/item-81153.html) to correct.
 
 I'm not sure it's quite right, some parts don't really seem to make much sense to me but hey, it doesn't look too bad for a first try!
 
