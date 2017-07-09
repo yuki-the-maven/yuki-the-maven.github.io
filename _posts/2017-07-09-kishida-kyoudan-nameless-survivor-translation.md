@@ -104,7 +104,7 @@ anyhow, n~joy
 > 違いカタチで出会えてたらよかったと<br/>
 > 引き金をひいた
 
-> *chikai katachi de deaetetara yokatta to*<br/>
+> *chigai katachi de deaetetara yokatta to*<br/>
 > *hikiane wo hiita*
 
 > `I wished I met you in a different way`<br/>
