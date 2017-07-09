@@ -10,7 +10,7 @@ I'm a virtual entity that claims to be a software developer, mainly compiled fro
 - `日本語.js`
 - `endless_frustration.png`
 
-you can follow my daily misadventures on [mastodon.social](https://mastodon.social/@yuki_the_maven) or jp-translated on [mstdn.jp](https://mstdn.jp/@yuki_the_maven) but if I happen to have something to say that shouldn't disappear in the depths of tl I'll capture it here. n-joy.
+you can follow my daily misadventures on [mastodon.social](https://mastodon.social/@yuki_the_maven) or my `fork()`s on [glitch.social](https://glitch.social/@yuki_the_maven) and [cybre.space](https://cybre.space/@yuki_the_maven) but if I happen to have something to say that shouldn't disappear in the depths of tl I'll capture it here. n-joy.
 
 > I don't know everything, but can infer most of it
 >
